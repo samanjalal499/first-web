@@ -1,0 +1,13 @@
+<html>
+
+
+
+<frameset cols="50%,50%">
+    <frame src="image" ></frame>
+    <frame src="squaer" ></frame>
+    </frameset>
+    
+    <body>
+    </body>
+    </html>
+    

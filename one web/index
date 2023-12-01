@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>main page</title>
+</head>
+<body>
+<center>
+<h1>our assigenment</h1> 
+</center>
+<hr>
+<ul>
+<li><a href="home" >  home </a></li>
+<li><a href="image" >  image </a></li>
+</ul>
+</body>
+</html>

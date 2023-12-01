@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> Image</title>
+</head>
+<body>
+<center>
+
+<h1>image page</h1>
+<hr>
+<br><h4> for more information  click this blow image </h4>
+<a href="information">
+<img src="Untitled.jpg"></a>
+</center>
+
+</html>
+</body>
